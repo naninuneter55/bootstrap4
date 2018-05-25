@@ -1,7 +1,7 @@
 # GitPitchのテスト
 
 - 通常 https://gitpitch.com/naninuneter55/bootstrap4
-- 通常 発表者ノート付き https://gitpitch.com/naninuneter55/bootstrap4?n=ture
+- 通常 発表者ノート付き https://gitpitch.com/naninuneter55/bootstrap4?n=true
 
 
 ---
