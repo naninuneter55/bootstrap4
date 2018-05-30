@@ -102,7 +102,7 @@ Note:
 
 ページ全体を横幅12分割で構成する仕組みのこと
 
-![Bootstrap4 グリッドシステム](/assets/md/grid.png)
+![Bootstrap4 グリッドシステム](assets/grid.png)
 
 Note:
 Bootstrap4のグリッドシステムとは、ページ全体を横幅12分割で構成する仕組みのことです。
@@ -130,7 +130,7 @@ Note:
 
 Bootstrap4に用意されている豊富なコンポーネントを使用することで、見栄えのいいWebページを効率よく作成することができる。
 
-<img src="/assets/md/jumbotron_sample.png" width="600px">
+<img src="assets/jumbotron_sample.png" width="600px">
 
 Note:
 Bootstrap4に用意されている豊富なコンポーネントを使用することで、見栄えのいいWebページを効率よく作成することができます。
