@@ -57,6 +57,7 @@ CDNを利用するには
     <title>Bootstrap4</title>
 </head>
 ```
+@[1,9](HTMLのHEADタグの中で)
 @[4-6](BootstrapのcssファイルをCDNから読み込むように指定します)
 
 Note:
