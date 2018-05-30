@@ -50,13 +50,15 @@ CDNを利用するには
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+    <link rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
         crossorigin="anonymous">
     <title>Bootstrap4</title>
 </head>
 ```
-@[4-6](BootstrapのcssファイルをCDNから読み込むように指定します)
+@[4-7](BootstrapのcssファイルをCDNから読み込むように指定します)
 
 Note:
 CDNを利用するには、HTMLのHEADタグの中で、BootstrapのcssファイルをCDNから読み込むように指定します。
 
++++
