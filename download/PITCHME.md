@@ -66,3 +66,56 @@ CDNを利用するには、HTMLのHEADタグの中で、Bootstrapのcssファイ
 integrity属性はダウンロードされたCSSファイルが改ざんされていないかをチェックするハッシュ値です。変更しないでください。
 
 +++
+
+利用方法その2
+
+Bootstrap4 を
+# ダウンロード
+
+Note:
+それでは利用法その2「Bootstrap4 をダウンロード」をご説明します。
+
++++
+
+以下のURLにアクセスし
+
+[https://github.com/twbs/bootstrap/releases/download/v4.1.1/bootstrap-4.1.1-dist.zip](https://github.com/twbs/bootstrap/releases/download/v4.1.1/bootstrap-4.1.1-dist.zip)
+
+ZIPファイルをダウンロードする。
+
+Note:
+まずは、ご覧のURLにアクセスしてbootstrap-4.1.1-dist.zip をダウンロードします。
+
++++
+
+ZIPファイルを解凍し
+
+ご自身のHTML作成環境に配置
+
+Note:
+ダウンロードしたZIPファイルを解凍し<br>
+ご自身のHTML作成環境に配置します。
+
++++
+
+ダウンロードしたBootstrap4を利用するには
+
+```
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <title>Bootstrap4</title>
+</head>
+```
+@[1,6](HTMLのHEADタグの中で)
+@[4](解凍した配置したBootstrapのcssファイルを読み込むように指定します。)
+
+
+Note:
+ダウンロードしたBootstrap4を利用するには、
+HTMLのHEADタグの中で、
+解凍した配置したBootstrapのcssファイルを読み込むように指定します。
+
++++
+
