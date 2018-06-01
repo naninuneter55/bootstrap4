@@ -150,7 +150,7 @@ Webで使われる各種ライブラリなどがnpmでダウンロードでき�
 
 +++
 
-npmコマンドでのインストールイメージ
+npm　のインストールイメージ
 
 ```shell
 $ mkdir bs4sample
@@ -167,6 +167,6 @@ npm install コマンドのを使用したインストールイメージを紹�
 まず、フォルダを作成し、作成したフォルダに移動します。
 それから、npm init　コマンドで初期化処理を行います。
 npm init コマンドを実行することで、インストールするライブラリのバージョンなどを管理するpackage.jsonファイルが作成されます。
-最後に、npm install bootstrap コマンドを実行し bootstrap をダウンロードしインストールします。
+最後に、npm install bootstrap コマンドを実行し bootstrap がダウンロードされインストールします。
 
 +++
