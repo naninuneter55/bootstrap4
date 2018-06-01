@@ -119,3 +119,24 @@ HTMLのHEADタグの中で、
 
 +++
 
+
+npmコマンドでのインストールイメージ
+
+```shell
+$ mkdir bs4sample
+$ cd bs4sample
+$ npm init
+$ npm install bootstrap
+```
+@[1,2](フォルダの作成と移動)
+@[3](npmの初期化処理)
+@[4](bootstrapのダウンロードとインストール)
+
+Note:
+npm install コマンドのを使用したインストールイメージを紹介します。
+まず、フォルダを作成し、作成したフォルダに移動します。
+それから、npm init　コマンドで初期化処理を行います。
+npm init コマンドを実行することで、インストールするライブラリのバージョンなどを管理するpackage.jsonファイルが作成されます。
+最後に、npm install bootstrap コマンドを実行し bootstrap をダウンロードしインストールします。
+
++++
