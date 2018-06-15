@@ -109,13 +109,13 @@ Note:
 </head>
 ```
 @[1,6](HTMLのHEADタグの中で)
-@[4](解凍した配置したBootstrapのcssファイルを読み込むように指定します。)
+@[4](解凍して配置したBootstrapのcssファイルを読み込むように指定します。)
 
 
 Note:
 ダウンロードしたBootstrap4を利用するには、
 HTMLのHEADタグの中で、
-解凍した配置したBootstrapのcssファイルを読み込むように指定します。
+解凍して配置したBootstrapのcssファイルを読み込むように指定します。
 
 +++
 
@@ -202,6 +202,6 @@ Note:
 
 Note:
 それから、ポップオーバ表示などを行うためのライブラリ popper.js です。
-Bootstrap4(v4.1.1) を使用する場合は JQuery 1.14.3 を使用してください
+Bootstrap4(v4.1.1) を使用する場合は popper.js 1.14.3 を使用してください
 
 +++
